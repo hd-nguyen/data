@@ -16421,15 +16421,7 @@
     {
         "subject_id": 744,
         "template_id": 815,
-        "templates": [
-            {
-                "Height": 100,
-                "Width": 100,
-                "X": 75,
-                "Y": 75,
-                "filename": "Chyung_Dai-chul/Dai_Chul_Chyung_0001.jpg"
-            }
-        ]
+        "templates": []
     },
     {
         "subject_id": 823,
@@ -60647,13 +60639,6 @@
                 "Width": 100,
                 "X": 75,
                 "Y": 75,
-                "filename": "Mireya_Moscoso/Mireya_Elisa_Moscoso_Rodriguez_0001.jpg"
-            },
-            {
-                "Height": 100,
-                "Width": 100,
-                "X": 75,
-                "Y": 75,
                 "filename": "Mireya_Moscoso/Mireya_Moscoso_0001.jpg"
             },
             {
@@ -63078,15 +63063,7 @@
     {
         "subject_id": 3065,
         "template_id": 3032,
-        "templates": [
-            {
-                "Height": 100,
-                "Width": 100,
-                "X": 75,
-                "Y": 75,
-                "filename": "Noer_Muis/Noer_Moeis_0001.jpg"
-            }
-        ]
+        "templates": []
     },
     {
         "subject_id": 3066,
@@ -78257,15 +78234,7 @@
     {
         "subject_id": 687,
         "template_id": 3834,
-        "templates": [
-            {
-                "Height": 100,
-                "Width": 100,
-                "X": 75,
-                "Y": 75,
-                "filename": "Choi_Sung-hong/Sung_Hong_Choi_0001.jpg"
-            }
-        ]
+        "templates": []
     },
     {
         "subject_id": 5228,
@@ -86133,15 +86102,7 @@
     {
         "subject_id": 4199,
         "template_id": 4197,
-        "templates": [
-            {
-                "Height": 100,
-                "Width": 100,
-                "X": 75,
-                "Y": 75,
-                "filename": "Wang_Wingfan/Yingfan_Wang_0001.jpg"
-            }
-        ]
+        "templates": []
     },
     {
         "subject_id": 4200,

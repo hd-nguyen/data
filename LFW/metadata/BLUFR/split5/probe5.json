@@ -4442,15 +4442,7 @@
     {
         "subject_id": 231,
         "template_id": 229,
-        "templates": [
-            {
-                "Height": 100,
-                "Width": 100,
-                "X": 75,
-                "Y": 75,
-                "filename": "Janica_Kostelic/Anja_Paerson_0001.jpg"
-            }
-        ]
+        "templates": []
     },
     {
         "subject_id": 5647,
@@ -31747,15 +31739,7 @@
     {
         "subject_id": 1522,
         "template_id": 1498,
-        "templates": [
-            {
-                "Height": 100,
-                "Width": 100,
-                "X": 75,
-                "Y": 75,
-                "filename": "Jeff_Roehm/Harold_Scott_0001.jpg"
-            }
-        ]
+        "templates": []
     },
     {
         "subject_id": 1523,
@@ -41676,15 +41660,7 @@
     {
         "subject_id": 2081,
         "template_id": 1978,
-        "templates": [
-            {
-                "Height": 100,
-                "Width": 100,
-                "X": 75,
-                "Y": 75,
-                "filename": "Jon_Gruden/John_Gruden_0001.jpg"
-            }
-        ]
+        "templates": []
     },
     {
         "subject_id": 4769,
@@ -53090,15 +53066,7 @@
     {
         "subject_id": 2552,
         "template_id": 2513,
-        "templates": [
-            {
-                "Height": 100,
-                "Width": 100,
-                "X": 75,
-                "Y": 75,
-                "filename": "Hamad_Bin_Isa_al-Khalifa/Mahmoud_Abbas_0012.jpg"
-            }
-        ]
+        "templates": []
     },
     {
         "subject_id": 2551,
@@ -57897,15 +57865,7 @@
     {
         "subject_id": 2821,
         "template_id": 2781,
-        "templates": [
-            {
-                "Height": 100,
-                "Width": 100,
-                "X": 75,
-                "Y": 75,
-                "filename": "Rubens_Barrichello/Michael_Schumacher_0008.jpg"
-            }
-        ]
+        "templates": []
     },
     {
         "subject_id": 2820,
@@ -59432,13 +59392,6 @@
         "subject_id": 2907,
         "template_id": 2871,
         "templates": [
-            {
-                "Height": 100,
-                "Width": 100,
-                "X": 75,
-                "Y": 75,
-                "filename": "Mireya_Moscoso/Mireya_Elisa_Moscoso_Rodriguez_0001.jpg"
-            },
             {
                 "Height": 100,
                 "Width": 100,
@@ -62426,13 +62379,6 @@
         "subject_id": 3065,
         "template_id": 3020,
         "templates": [
-            {
-                "Height": 100,
-                "Width": 100,
-                "X": 75,
-                "Y": 75,
-                "filename": "Noer_Muis/Noer_Moeis_0001.jpg"
-            },
             {
                 "Height": 100,
                 "Width": 100,
@@ -67961,15 +67907,7 @@
     {
         "subject_id": 15,
         "template_id": 3350,
-        "templates": [
-            {
-                "Height": 100,
-                "Width": 100,
-                "X": 75,
-                "Y": 75,
-                "filename": "Abdullah_Gul/Recep_Tayyip_Erdogan_0004.jpg"
-            }
-        ]
+        "templates": []
     },
     {
         "subject_id": 3366,
@@ -77122,15 +77060,7 @@
     {
         "subject_id": 687,
         "template_id": 3835,
-        "templates": [
-            {
-                "Height": 100,
-                "Width": 100,
-                "X": 75,
-                "Y": 75,
-                "filename": "Choi_Sung-hong/Sung_Hong_Choi_0001.jpg"
-            }
-        ]
+        "templates": []
     },
     {
         "subject_id": 5228,

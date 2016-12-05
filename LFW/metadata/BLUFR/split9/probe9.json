@@ -4533,15 +4533,7 @@
     {
         "subject_id": 231,
         "template_id": 229,
-        "templates": [
-            {
-                "Height": 100,
-                "Width": 100,
-                "X": 75,
-                "Y": 75,
-                "filename": "Janica_Kostelic/Anja_Paerson_0001.jpg"
-            }
-        ]
+        "templates": []
     },
     {
         "subject_id": 233,
@@ -17134,15 +17126,7 @@
     {
         "subject_id": 744,
         "template_id": 809,
-        "templates": [
-            {
-                "Height": 100,
-                "Width": 100,
-                "X": 75,
-                "Y": 75,
-                "filename": "Chyung_Dai-chul/Dai_Chul_Chyung_0001.jpg"
-            }
-        ]
+        "templates": []
     },
     {
         "subject_id": 823,
@@ -31575,15 +31559,7 @@
     {
         "subject_id": 1522,
         "template_id": 1516,
-        "templates": [
-            {
-                "Height": 100,
-                "Width": 100,
-                "X": 75,
-                "Y": 75,
-                "filename": "Jeff_Roehm/Harold_Scott_0001.jpg"
-            }
-        ]
+        "templates": []
     },
     {
         "subject_id": 1523,
@@ -52416,15 +52392,7 @@
     {
         "subject_id": 2552,
         "template_id": 2543,
-        "templates": [
-            {
-                "Height": 100,
-                "Width": 100,
-                "X": 75,
-                "Y": 75,
-                "filename": "Hamad_Bin_Isa_al-Khalifa/Mahmoud_Abbas_0012.jpg"
-            }
-        ]
+        "templates": []
     },
     {
         "subject_id": 2551,
@@ -57023,15 +56991,7 @@
     {
         "subject_id": 2821,
         "template_id": 2808,
-        "templates": [
-            {
-                "Height": 100,
-                "Width": 100,
-                "X": 75,
-                "Y": 75,
-                "filename": "Rubens_Barrichello/Michael_Schumacher_0008.jpg"
-            }
-        ]
+        "templates": []
     },
     {
         "subject_id": 2820,
@@ -61584,13 +61544,6 @@
         "subject_id": 3065,
         "template_id": 3043,
         "templates": [
-            {
-                "Height": 100,
-                "Width": 100,
-                "X": 75,
-                "Y": 75,
-                "filename": "Noer_Muis/Noer_Moeis_0001.jpg"
-            },
             {
                 "Height": 100,
                 "Width": 100,
@@ -83870,15 +83823,7 @@
     {
         "subject_id": 4199,
         "template_id": 4206,
-        "templates": [
-            {
-                "Height": 100,
-                "Width": 100,
-                "X": 75,
-                "Y": 75,
-                "filename": "Wang_Wingfan/Yingfan_Wang_0001.jpg"
-            }
-        ]
+        "templates": []
     },
     {
         "subject_id": 4200,

@@ -5462,15 +5462,7 @@
     {
         "subject_id": 4241,
         "template_id": 420,
-        "templates": [
-            {
-                "Height": 100,
-                "Width": 100,
-                "X": 75,
-                "Y": 75,
-                "filename": "Anja_Paerson/Janica_Kostelic_0001.jpg"
-            }
-        ]
+        "templates": []
     },
     {
         "subject_id": 1799,

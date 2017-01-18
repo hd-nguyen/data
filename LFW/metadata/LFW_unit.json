@@ -1,0 +1,54 @@
+[
+    {
+        "sightings": [
+            {
+                "height": 100,
+                "url": "file://Abel_Pacheco/Abel_Pacheco_0001.jpg",
+                "width": 100,
+                "x": 75,
+                "y": 75
+            }
+        ],
+        "subject_id": 4258,
+        "template_id": 0
+    },
+    {
+        "sightings": [
+            {
+                "height": 100,
+                "url": "file://Akhmed_Zakayev/Akhmed_Zakayev_0001.jpg",
+                "width": 100,
+                "x": 75,
+                "y": 75
+            }
+        ],
+        "subject_id": 1321,
+        "template_id": 2
+    },
+    {
+        "sightings": [
+            {
+                "height": 100,
+                "url": "file://Amber_Tamblyn/Amber_Tamblyn_0001.jpg",
+                "width": 100,
+                "x": 75,
+                "y": 75
+            }
+        ],
+        "subject_id": 2929,
+        "template_id": 5
+    },
+    {
+        "sightings": [
+            {
+                "height": 100,
+                "url": "file://Anders_Fogh_Rasmussen/Anders_Fogh_Rasmussen_0001.jpg",
+                "width": 100,
+                "x": 75,
+                "y": 75
+            }
+        ],
+        "subject_id": 1097,
+        "template_id": 7
+    }
+]
